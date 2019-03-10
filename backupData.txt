@@ -1,0 +1,34 @@
+{
+    "users":[
+        {
+            "id":356705904604872705,
+            "licc":3,
+            "hours":4
+        },
+        {
+            "id":231997332386873344,
+            "licc":3,
+            "hours":4
+        }
+    ]
+}
+
+{
+    "quotes":[
+        {
+            "id":1,
+            "quote":"My belief that you can do it is stronger than my hatred of comic sans~",
+            "author":"Lee Heung Gi"
+        },
+        {
+            "id":2,
+            "quote":"oof",
+            "author":"Big oof"
+        },
+        {
+            "id":3,
+            "quote":"lala",
+            "author":"Lalaland"
+        }
+    ]
+}
